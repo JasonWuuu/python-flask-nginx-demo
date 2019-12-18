@@ -1,0 +1,7 @@
+dotenv
+flask
+requests
+asyncio
+aiohttp
+pymysql
+SQLAlchemy
