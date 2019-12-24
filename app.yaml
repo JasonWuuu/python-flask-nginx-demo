@@ -1,0 +1,6 @@
+runtime: python37
+service: python-flask-nginx-cong
+
+
+env_variables:
+  myname: "Hello, this is from environment"
